@@ -1,5 +1,4 @@
 # Ice-EpicSeven
-![image](https://github.com/Icetail1/Ice-EpicSeven/assets/51836525/b09179fb-eb9c-4e30-a9c7-0395f29d2390)
 1)	卖点拆解（重点）
 魔灵like体验全面提升，3.0时代到来
 
